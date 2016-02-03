@@ -1,2 +1,2 @@
-# SKUincrementallity
-SKU incrementallity analysis
+# SKUincrementality
+SKU incrementality analysis
